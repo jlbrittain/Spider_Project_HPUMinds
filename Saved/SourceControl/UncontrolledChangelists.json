@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hwesel/Documents/Unreal Projects/SpiderProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/hwesel/Documents/Unreal Projects/SpiderProject/Content/VRTemplate/Maps/VRTemplateMap.umap"
+			]
+		}
+	]
+}
